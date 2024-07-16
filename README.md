@@ -1,13 +1,13 @@
-This is a moden E-Commerce store for custom phone cases named CaseCobra.
+**This is a moden E-Commerce store for custom phone cases named CaseCobra.**
 
 ## Technologies and Libraries Used
 
-Next.js
-Tailwind
-React
-Kinde - Authentication
-Shadcn/ui - components
-lucide - icons
+- Next.js
+- Tailwind
+- React
+- Kinde - Authentication
+- Shadcn/ui - components
+- lucide - icons
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Run the development server:
 
 ```bash
 npm run dev
-
+```
 
 
 ## Deploy on Vercel
