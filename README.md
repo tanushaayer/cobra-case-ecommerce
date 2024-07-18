@@ -8,6 +8,7 @@
 - Kinde - Authentication
 - Shadcn/ui - components
 - lucide - icons
+- React drop zone - drag and drop of images
 
 ## Getting Started
 
