@@ -42,7 +42,7 @@ const Navbar = async () => {
                   </Link>
                 ) : null}
                 <Link
-                  href="/confiugre/upload"
+                  href="/configure/upload"
                   className={buttonVariants({
                     size: "sm",
                     className: "hidden sm:flex  gap-1",
@@ -76,7 +76,7 @@ const Navbar = async () => {
                 </Link>
                 <div className="h-8 w-px bg-zinc-200 hidden sm:block"></div>
                 <Link
-                  href="/confiugre/upload"
+                  href="/configure/upload"
                   className={buttonVariants({
                     size: "sm",
                     className: "hidden sm:flex  gap-1",
